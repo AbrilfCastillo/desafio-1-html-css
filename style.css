@@ -47,14 +47,13 @@ p {
 header,
 footer {
   background-color: var(--header-footer);
-  height: 6rem;
 }
 
 header a {
   font-family: "Bonheur royale", cursive;
   color: white;
-  font-size: 4.5rem;
-  margin: 1.25rem;
+  font-size: 5.5rem;
+  margin: 3.5rem;
 }
 
 /* body */
@@ -63,7 +62,7 @@ body {
 }
 h1 {
   text-align: center;
-  padding: 1.25rem;
+  padding: 5rem;
 }
 
 /* Quién soy */
@@ -117,7 +116,7 @@ h1 {
 }
 
 section {
-  margin: 5rem 2rem;
+  padding: 5rem 2rem;
 }
 
 h2 {
@@ -126,7 +125,7 @@ h2 {
 
 .background-respuesta {
   background-color: var(--card-back);
-  margin: 2rem 2.5rem;
+  margin: 5rem 2.5rem 1rem 2.5rem;
   padding: 2rem;
   width: fit-content;
   border-radius: 5px;
@@ -154,9 +153,10 @@ footer {
 }
 
 .redes {
-  font-size: medium;
+  font-size: 30px;
+  padding: 3rem;
 }
 
 .redes a {
-  margin-right: 1.5rem;
+  margin-right: 1.25rem;
 }
