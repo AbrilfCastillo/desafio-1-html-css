@@ -84,7 +84,7 @@ h1 {
 
 .portada-card {
   height: 10rem;
-  background-image: url(/img/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg);
+  background-image: url(img/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   z-index: -1;
